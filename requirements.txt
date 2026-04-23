@@ -1,0 +1,17 @@
+# 柯氏四级培训评估系统 - 依赖说明
+#
+# 此项目仅使用 Python 内置库，无需安装任何第三方包
+#
+# 内置依赖：
+#   - tkinter     GUI界面
+#   - json        数据存储
+#   - csv         CSV导出
+#   - os / sys    文件操作
+#   - datetime    时间处理
+#   - webbrowser  打开HTML报告
+#   - random      演示数据生成
+#
+# 运行要求：Python 3.6+
+#
+# 运行方式：
+#   python3 app.py

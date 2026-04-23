@@ -1,0 +1,8 @@
+# 本地数据和生成的报告
+kirkpatrick_data.json
+reports/
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+.env
