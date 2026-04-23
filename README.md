@@ -1,3 +1,25 @@
+<div align="center">
+
+# 🏢 Training Toolkit
+
+> 用 AI 重塑企业培训全流程
+
+[![Training Toolkit](https://img.shields.io/badge/🧩-Training_Toolkit-2D9CDB?style=flat-square)](#)
+[![Evaluation](https://img.shields.io/badge/🎓-Kirkpatrick_Model-E74C3C?style=flat-square)](#)
+[![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=flat-square&logo=python)](#)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](#)
+[![Zero Deps](https://img.shields.io/badge/Dependencies-Zero-success?style=flat-square)](#)
+
+**柯氏四级培训评估系统** — 将经典评估模型落地为可执行的工具
+
+反应层 → 学习层 → 行为层 → 结果层，四级问卷 + 自动分析报告 + ROI 计算，一站式完成。
+
+🧩 **产品矩阵** → [知识库问答](https://github.com/ASJ-Alita/rag-knowledge-base) · [培训需求分析](https://github.com/ASJ-Alita/training-analyzer) · [效果追踪器](https://github.com/ASJ-Alita/training-tracker) · [智能出题](https://github.com/ASJ-Alita/quiz-generator) · [培训助手](https://github.com/ASJ-Alita/training-assistant)
+
+</div>
+
+---
+
 # 柯氏四级培训评估系统
 
 > **Kirkpatrick Four-Level Training Evaluation System**  
